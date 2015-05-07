@@ -1,0 +1,16 @@
+{
+  "name": "AngularPPStarter",
+  "version": "0.0.1",
+  "description": "Porawit Poboonma's starter app for angularjs development",
+  "author": "Porawit Poboonma",
+  "dependencies": {},
+  "devDependencies": {
+    "mincer": "*",
+    "connect": "*",
+    "http": "*",
+    "coffee-script": "*",
+    "less": "*",
+    "jade": "*"
+  }
+}
+

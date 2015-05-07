@@ -1,0 +1,13 @@
+{
+  "name": "AngularStarter",
+  "version": "1.0.0",
+  "main": "src/index.html",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "angular": "*",
+    "angular-ui-router": "*"
+  }
+}
